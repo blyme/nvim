@@ -8,3 +8,5 @@ vim.cmd("set softtabstop=2")
 vim.cmd("set shiftwidth=2")
 vim.cmd("language en_US")
 vim.opt.colorcolumn = "80"
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
