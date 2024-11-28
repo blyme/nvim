@@ -44,6 +44,6 @@ return {
     })
   end,
   keys = {
-    { "<leader>e", "<cmd> NvimTreeFocus <CR>", desc = "Focus nvimtree" },
+    { "<leader>e", "<cmd> NvimTreeToggle <CR>", desc = "Toggle nvimtree" },
   },
 }
