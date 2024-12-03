@@ -10,6 +10,9 @@ return {
       update_focused_file = {
         enable = true,
       },
+      filters = {
+        git_ignored = false,
+      },
       view = {
         width = 40,
         adaptive_size = true,
