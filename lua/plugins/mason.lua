@@ -7,6 +7,7 @@ return {
       "tailwindcss-language-server",
       "typescript-language-server",
       "phpstan",
+      "phpactor",
     },
   },
 }
